@@ -1,12 +1,13 @@
 = Управление искусственных нейронных сетей распознавания раскадровки образов высокого разрешения
+:doctype: book
 :data-uri:
 
-[source,js]
-----
+[subs="attributes"]
+++++
 <script type="text/javascript" async
         src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
-----
+++++
 
 .*Аннотация (RU)*
 [%collapsible]
