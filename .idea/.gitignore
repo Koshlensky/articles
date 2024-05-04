@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+.idea
+/idea
+/articles.iml
+/modules.xml
+/vcs.xml
+.gitignore
